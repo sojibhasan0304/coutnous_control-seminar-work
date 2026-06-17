@@ -1,6 +1,6 @@
 # Continuous Control Seminar Work
 
-This repository contains my seminar work for Continuous Control (AUART/AE4SR).
+This repository contains my seminar work for Continuous Control.
 
 ## System
 
